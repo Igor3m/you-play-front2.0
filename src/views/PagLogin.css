@@ -1,0 +1,52 @@
+.Login {
+    width:100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.Label {
+    display: flex;
+    align-items: center;
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+.input {
+    color: white;
+    background-color: black;
+    width: 100%;
+    display: block;
+    padding: 1rem 0.5rem;
+    border: 2px solid white;
+    border-radius: 0.25rem;
+    margin-bottom: 8px;
+}
+/*padding: 0.375rem 0.75rem*/
+
+.btn-login{
+    width: 100%;
+    padding: 1rem;
+    background: #2A9FD6;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+
+.paragrafo {
+    color: white;
+}
+.span{
+    color:#fff
+}
+.link {
+    color:#2A9FD6;
+
+}

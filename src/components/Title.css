@@ -1,0 +1,15 @@
+.Title{
+    width:100vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content:center; 
+    align-items: center;
+}
+
+.Title h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 50px;
+    
+}

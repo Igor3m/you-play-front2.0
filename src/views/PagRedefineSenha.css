@@ -1,0 +1,43 @@
+.Redefine {
+
+    width:100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Redefine h2 {
+    color: #FFF;
+}
+
+.Redefine h3 {
+    color: #FFF;
+}
+.Redefine label {
+    margin-bottom: 0.5rem;
+    margin-left: 15rem;
+   
+}
+
+.Redefine input {
+    
+    width: 49%;
+    margin-bottom: 8px;
+    margin-left: 15rem;
+    margin-top: 40px;
+}
+
+.Redefine button {
+    width: 50%;
+    
+}
+
+.Redefine p {
+    margin-top: 20px;
+    color: #fff;
+}
+
+.Redefine span {
+    color: #fff;
+}
